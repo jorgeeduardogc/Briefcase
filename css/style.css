@@ -250,6 +250,12 @@ nav {
     flex-wrap: wrap;
 }
 
+.hero-current {
+    margin: 0 0 1.5rem;
+    color: var(--gold);
+    font-size: 0.9rem;
+}
+
 /* SECTIONS */
 section {
     padding: 5rem 2rem;
@@ -437,6 +443,50 @@ section {
     margin-bottom: 1rem;
 }
 
+.exp-highlights {
+    list-style: disc;
+    padding-left: 1.25rem;
+    margin-bottom: 1rem;
+    color: var(--text-2);
+    font-size: 0.9rem;
+    line-height: 1.7;
+}
+
+.exp-highlights li + li {
+    margin-top: 0.5rem;
+}
+
+.education-details {
+    max-width: 800px;
+    margin: 2rem auto 0;
+}
+
+.education-details h3 {
+    font-size: 1.1rem;
+}
+
+.education-details > p {
+    margin-top: 0.5rem;
+    color: var(--text-2);
+    font-size: 0.9rem;
+}
+
+.language-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem 3rem;
+    margin-top: 1.5rem;
+    font-size: 0.9rem;
+}
+
+.language-list dt {
+    font-weight: 600;
+}
+
+.language-list dd {
+    color: var(--text-2);
+}
+
 .tech-tags {
     display: flex;
     flex-wrap: wrap;
@@ -505,6 +555,16 @@ section {
     color: var(--text-2);
     font-size: 0.83rem;
     line-height: 1.65;
+}
+
+.project-card .project-context {
+    color: var(--gold);
+    font-size: 0.78rem;
+    margin-bottom: 0.75rem;
+}
+
+.project-card .tech-tags {
+    margin-top: 1rem;
 }
 
 /* CONTACT */
@@ -676,6 +736,8 @@ footer {
         transform: translateY(-120%);
         transition: transform 0.3s ease;
         backdrop-filter: blur(14px);
+        max-height: calc(100dvh - 60px);
+        overflow-y: auto;
     }
 
     .nav-links.open {

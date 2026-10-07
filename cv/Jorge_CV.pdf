@@ -1,105 +1,647 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Times-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Times-Italic /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+/Length 10838
 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.84 733.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F2 15.2 Tf 16.2 TL 144.0932 0 Td (Jorge Eduardo Gonzalez Cortes) Tj T* -144.0932 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 722 cm
+q
+BT 1 0 0 1 0 1 Tm 167.0748 0 Td 10.8 TL /F3 9.8 Tf 0 0 0 rg (Software Engineer | Backend | Full Stack) Tj T* -164.6101 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 709.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F4 7.6 Tf 8.6 TL 152.1758 0 Td (+52 327 104 9974 - joorge.gonzalez.dev@gmail.com - Mexico) Tj T* -90.0154 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 698.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F4 7.6 Tf 8.6 TL 55.6672 0 Td (linkedin.com/in/jorge-eduardo-gonzalez-cortes-7722b92a6 - github.com/jorgeeduardogc - jorgeeduardogc.github.io/Briefcase/) Tj T* -31.7842 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 688.8 cm
+Q
+q
+1 0 0 1 51.84 668.8 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F2 11 Tf 12 TL 218.102 0 Td (EXPERIENCE) Tj T* -218.102 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.258824 .282353 .309804 RG
+.8 w
+n 0 0 m 508.32 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.84 567.8 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 92 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.2 Tm /F4 7.8 Tf 9 TL (Aug 2026 - Present) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.36 92 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F2 8 Tf 9 TL (Software Developer | Instituto Estatal Electoral de Nayarit) Tj T* ET
+Q
+Q
+BT 1 0 0 1 0 81.5 Tm  T* ET
+q
+1 0 0 1 99.36 73.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.05 Tm /F4 7.75 Tf 8.9 TL (- Migrating a legacy ASP.NET institutional system into a C# .NET REST API using layered architecture inspired by) Tj T* (Clean Architecture.) Tj T* ET
+Q
+Q
+BT 1 0 0 1 0 63.2 Tm  T* ET
+q
+1 0 0 1 99.36 55.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.05 Tm /F4 7.75 Tf 8.9 TL (- Structured the solution across API, Application, Domain, and Infrastructure layers, separating controller logic,) Tj T* (services, interfaces, DTOs, and entities.) Tj T* ET
+Q
+Q
+BT 1 0 0 1 0 44.9 Tm  T* ET
+q
+1 0 0 1 99.36 37.1 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.05 Tm /F4 7.75 Tf 8.9 TL (- Implemented user-module REST endpoints for creation, lookup, and login with ASP.NET Core Identity, Guid) Tj T* (identifiers, PasswordHash, and JWT authentication.) Tj T* ET
+Q
+Q
+BT 1 0 0 1 0 26.6 Tm  T* ET
+q
+1 0 0 1 99.36 18.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.05 Tm /F4 7.75 Tf 8.9 TL (- Configured Entity Framework Core Code First with Fluent API, migrations, SQL Server, SSMS validation, Identity) Tj T* (tables, and descriptive schema updates.) Tj T* ET
+Q
+Q
+BT 1 0 0 1 0 8.3 Tm  T* ET
+q
+1 0 0 1 99.36 .5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.05 Tm /F4 7.75 Tf 8.9 TL (- Improved API consistency through dependency injection, generic result responses, Swagger/OpenAPI) Tj T* (documentation, LINQ projections, AsNoTracking queries, secure secrets, and proper HTTP status codes.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.84 561.8 cm
+Q
+q
+1 0 0 1 57.84 460.8 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 92 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.2 Tm /F4 7.8 Tf 9 TL (Aug 2025 - Jun 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.36 92 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F2 8 Tf 9 TL (Backend Developer | Atom) Tj T* ET
+Q
+Q
+BT 1 0 0 1 0 81.5 Tm  T* ET
+q
+1 0 0 1 99.36 73.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.05 Tm /F4 7.75 Tf 8.9 TL (- Built and maintained serverless backend services with TypeScript, Node.js, AWS Lambda, API Gateway, Amazon) Tj T* (SQS, and Serverless Framework.) Tj T* ET
+Q
+Q
+BT 1 0 0 1 0 63.2 Tm  T* ET
+q
+1 0 0 1 99.36 55.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.05 Tm /F4 7.75 Tf 8.9 TL (- Designed REST APIs and asynchronous workflows supporting payment processing, webhooks, integrations, and) Tj T* (background operations.) Tj T* ET
+Q
+Q
+BT 1 0 0 1 0 44.9 Tm  T* ET
+q
+1 0 0 1 99.36 37.1 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.05 Tm /F4 7.75 Tf 8.9 TL (- Improved production reliability through structured validation, centralized error handling, standardized logging, retry) Tj T* (logic, and idempotent processing.) Tj T* ET
+Q
+Q
+BT 1 0 0 1 0 26.6 Tm  T* ET
+q
+1 0 0 1 99.36 18.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.05 Tm /F4 7.75 Tf 8.9 TL (- Reduced response time for a payment-method workflow from roughly 7-9 seconds to 3-5 seconds after restructuring) Tj T* (backend processing.) Tj T* ET
+Q
+Q
+BT 1 0 0 1 0 8.3 Tm  T* ET
+q
+1 0 0 1 99.36 .5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.05 Tm /F4 7.75 Tf 8.9 TL (- Wrote unit and integration tests for critical API endpoints and Lambda handlers, helping prevent regressions across) Tj T* (staging and production.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.84 454.8 cm
+Q
+q
+1 0 0 1 57.84 390.4 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 55.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.2 Tm /F4 7.8 Tf 9 TL (Apr 2025 - Sep 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.36 55.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F2 8 Tf 9 TL (Full-Stack Developer | CICESE - Mobile Fitness Application) Tj T* ET
+Q
+Q
+BT 1 0 0 1 0 44.9 Tm  T* ET
+q
+1 0 0 1 99.36 37.1 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.05 Tm /F4 7.75 Tf 8.9 TL (- Built a full-stack mobile application with personalized AI-generated workout routines, timers, authentication, and) Tj T* (progress tracking.) Tj T* ET
+Q
+Q
+BT 1 0 0 1 0 26.6 Tm  T* ET
+q
+1 0 0 1 99.36 18.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.05 Tm /F4 7.75 Tf 8.9 TL (- Developed a REST API with Node.js, Express, and MySQL using layered architecture and an eight-entity relational) Tj T* (schema.) Tj T* ET
+Q
+Q
+BT 1 0 0 1 0 8.3 Tm  T* ET
+q
+1 0 0 1 99.36 .5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.05 Tm /F4 7.75 Tf 8.9 TL (- Created the React Native frontend and integrated AsyncStorage, Axios, authentication flows, and service/API) Tj T* (validation tests.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.84 384.4 cm
+Q
+q
+1 0 0 1 57.84 338.3 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 37.1 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.2 Tm /F4 7.8 Tf 9 TL (Oct 2025 - Dec 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.36 37.1 cm
+q
+BT 1 0 0 1 0 1 Tm 9 TL /F2 8 Tf 0 0 0 rg (Product & UI/UX Designer | CICESE - Tzuku) Tj T* ET
+Q
+Q
+BT 1 0 0 1 0 26.6 Tm  T* ET
+q
+1 0 0 1 99.36 18.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.05 Tm /F4 7.75 Tf 8.9 TL (- Delivered 20+ high-fidelity screens and interactive prototypes for a monitoring and activity-tracking mobile) Tj T* (application.) Tj T* ET
+Q
+Q
+BT 1 0 0 1 0 8.3 Tm  T* ET
+q
+1 0 0 1 99.36 .5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.05 Tm /F4 7.75 Tf 8.9 TL (- Defined user flows, API endpoint specifications, and data models to align product requirements with backend) Tj T* (implementation needs.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.84 332.3 cm
+Q
+q
+1 0 0 1 57.84 286.2 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 37.1 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.2 Tm /F4 7.8 Tf 9 TL (Mar 2023 - Jun 2023) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.36 37.1 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F2 8 Tf 9 TL (Java Developer | Academic Project) Tj T* ET
+Q
+Q
+BT 1 0 0 1 0 26.6 Tm  T* ET
+q
+1 0 0 1 99.36 18.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.05 Tm /F4 7.75 Tf 8.9 TL (- Built a Java Swing desktop system covering role-based access, products, providers, inventory, invoices, sales,) Tj T* (returns, tickets, and cash closing.) Tj T* ET
+Q
+Q
+BT 1 0 0 1 0 8.3 Tm  T* ET
+q
+1 0 0 1 99.36 .5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.05 Tm /F4 7.75 Tf 8.9 TL (- Designed a MySQL relational database and used JDBC to implement CRUD screens, inventory updates, sales) Tj T* (workflows, and reporting.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.84 278.2 cm
+Q
+q
+1 0 0 1 51.84 258.2 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F2 11 Tf 12 TL 199.6055 0 Td (TECHNICAL SKILLS) Tj T* -199.6055 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.258824 .282353 .309804 RG
+.8 w
+n 0 0 m 508.32 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 72 188.8 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 59.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.15 Tm /F4 7.75 Tf 8.9 TL (Languages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 111.6 59.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.15 Tm /F4 7.75 Tf 8.9 TL (C# - TypeScript - JavaScript - SQL - Java - Python \(familiar\) - HTML/CSS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 47.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.15 Tm /F4 7.75 Tf 8.9 TL (Backend And APIs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 111.6 38.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.05 Tm /F4 7.75 Tf 8.9 TL (.NET - ASP.NET Core Web API - Node.js - Express - REST APIs - Webhooks - Asynchronous workflows -) Tj T* (Serverless architecture - JDBC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 26.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.15 Tm /F4 7.75 Tf 8.9 TL (Databases) Tj T* ET
+Q
+Q
+q
+1 0 0 1 111.6 26.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.15 Tm /F4 7.75 Tf 8.9 TL (SQL Server - MySQL - DynamoDB - MongoDB - Entity Framework Core - LINQ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 14.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.15 Tm /F4 7.75 Tf 8.9 TL (Cloud And Tools) Tj T* ET
+Q
+Q
+q
+1 0 0 1 111.6 14.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.15 Tm /F4 7.75 Tf 8.9 TL (AWS Lambda - API Gateway - Amazon SQS - CloudWatch - Swagger/OpenAPI - Visual Studio - Git/GitHub) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 2.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.15 Tm /F4 7.75 Tf 8.9 TL (Frontend And Practices) Tj T* ET
+Q
+Q
+q
+1 0 0 1 111.6 2.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.15 Tm /F4 7.75 Tf 8.9 TL (React Native \(Expo\) - CI/CD - Unit/integration testing - Debugging - Logging - Documentation) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 51.84 168.8 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F2 11 Tf 12 TL 220.5495 0 Td (EDUCATION) Tj T* -220.5495 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.258824 .282353 .309804 RG
+.8 w
+n 0 0 m 508.32 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.84 141 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 18.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.2 Tm /F4 7.8 Tf 9 TL (Aug 2020 - 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.36 18.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F2 8 Tf 9 TL (Bachelor's Degree in Computer Systems Engineering | Instituto Tecnologico de Tepic) Tj T* ET
+Q
+Q
+BT 1 0 0 1 0 8.3 Tm  T* ET
+q
+1 0 0 1 99.36 .5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.05 Tm /F4 7.75 Tf 8.9 TL (- Weighted GPA: 90.75/100 | Coursework: Software Engineering, Web Development, Databases, Object-Oriented) Tj T* (Programming.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.84 133 cm
+Q
+q
+1 0 0 1 51.84 113 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F2 11 Tf 12 TL 219.323 0 Td (LANGUAGES) Tj T* -219.323 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.258824 .282353 .309804 RG
+.8 w
+n 0 0 m 508.32 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.84 104.1 cm
+q
+BT 1 0 0 1 0 1.15 Tm 163.995 0 Td 8.9 TL /F4 7.75 Tf 0 0 0 rg (Spanish: Native speaker) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (English: C1) Tj T* -163.995 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 96.1 cm
+Q
+q
+1 0 0 1 51.84 76.1 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F2 11 Tf 12 TL 223.2885 0 Td (INTERESTS) Tj T* -223.2885 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.258824 .282353 .309804 RG
+.8 w
+n 0 0 m 508.32 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.84 67.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.15 Tm /F4 7.75 Tf 8.9 TL 183.2615 0 Td (- Cloud architecture - Distributed systems) Tj T* -183.2615 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 58.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.15 Tm /F4 7.75 Tf 8.9 TL 189.8335 0 Td (- Observability - AI-enabled products) Tj T* -189.8335 0 Td ET
+Q
+Q
+ 
+
+endstream
 endobj
 6 0 obj
 <<
-/Contents 11 0 R /MediaBox [ 0 0 612 792 ] /Parent 10 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
 >>
 endobj
 7 0 obj
 <<
-/Contents 12 0 R /MediaBox [ 0 0 612 792 ] /Parent 10 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/PageMode /UseNone /Pages 10 0 R /Type /Catalog
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260625234400-07'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260625234400-07'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/BaseFont /Times-Italic
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 10 0 obj
 <<
-/Count 2 /Kids [ 6 0 R 7 0 R ] /Type /Pages
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
 >>
-endobj
-11 0 obj
-<<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2842
->>
-stream
-Gau0E>>s9M&q/qEbgR?b/s^Xp]WEn8+Wh8IS]YhM?H1E$$RC]q>p)o0O5D`LOt:+4bMisWct,'!F/JhV:WFS=ILQ$69F3_MOl<i:%$Sp'Lgb'WR9butm-(VtUD`;!RctL31,K5Si.3L&'T43KCNS#CRSRNE-8UM;C7^s@a"*P&YY<=4/I/%_&NTj-MZk>hW2<#%aX<\YV@!,o`k86Pq$3>DPM+j8@.P[HoF4#h<ge\S.'&pW@gZ]Sf>f;[<c]+h68q$98>&PiRc4,j^7gsLiORsOAQYN-E9)8dn#@a=^s[$2B8dSd5NJ&`%kNX[hoL)6,\1*;H>W2lfCi@K]-(jT`La<dpArueeJ*RH.=5pkBs+bneNMg0ha!^I?IQ5$6e_DJa!?u8!N&SC^pD-Y_t1r4(MmlFL1MrGO8iI\1etE>VeX9fq\=lkSU\me7Oh.?QL]p(OQC4``6emb!*ug^LU;qaej8.HG7S.AE*CT@L"Og>^@T)>:?(Vk7<'Z9%-)/K09?[2nuG'7GS!K^)L.ifc3'9A$Kr\:QM"LsHGqBeNa!L$4Iu(;%06Q9*!MA5]WX22`I)o6`9]+P,o_#<oTAM#_RC3q4!)6*,Y=GD7G@oT`scdZo?l_%[uRqj#rfO(2rDs`,;>U+]=Ild5+,/!^0ZjQan5J\e`c_aCS0E"]?b6De#[-f2+5P"SprcK9\\$e!)"N[Z\Tqpa)oDiVkZr"Se=,h1g@m#6=oo8L'O*jbdr^^_#<WgF53(XH&dJo'48):(:s^a,Ac&:S7/h2O@:G?aLmNHGg1iaRp[jOnJI%_4<_1tl&:R=/oXG+<>I1pT(0B;:V:q^9DDGb!oXWo5:Ate':S)UXFd/lFXa2YX`?</M`@n8>+1MUH,R(:]KZ0H<HDEIVVa!`1?mKc"Qpsh?)9*Q?tdLpKpqdi4L+^Fo*:cl@p+quZ6\P3XB:@,Qt^finXDqRU2r:?DSkQeQubS<2Qmo)ES?g*%*/eteY/@;"EmK%E=u>'NJsS[(3aI:L>9,>l4Kt2]O_e$Y@632P@2,O7lpQgFun3q3=kEg?ncGb0UeODLeUq/T_!i!Z<84#\)d3k=b4cA/2.TMbBSTI6Cu$k>-O'%MG->Kh[4XlcoEc/f-?Xm5#tiKaZ^NlXiAbsT/hHO]_Xn0(\jG7QpDC5ZcW"6ou1$$hObUNQd^*8D2d4Z[GuUhNB.R_73'e2:?8\dcm9<GWs$e+D79@-inQf_1@/sg`YLFD(Rp9u)3pOF>L[c"cL4tn!tTI\T6Z_N!ZCHA.M_WfN;EL9!Tq!J<,+%5[!s[EV0el\DH:^KM#Zuc9b@iAq"]\kn9K2"3?1hmH]89qi*untQ,Q96:nX/#C;4olSf2<@5TrXOO;<,hWM-p$d:eWQ)XZ%pL>'%)d3;i8'h"jP+tL5J'//j2@cBa;NY>_L(=-/9I$r.NK*S%^i_D+?3fb2/&pj8.<pY[GRN!^S%0rAOS#U7<ljm9RbGGnVF^B@%b%SrD:7DJN>N"KEhQ2dcG)hih>5u2`T^O'L^<E*i0]Fu'b0ORB+`Ba:;d9cOI'2WAAJ`8SR6(;<iE7g0[OJC'YYBK0nri`"cB+hiQJEs$4-8?CCU)jc8KXnp&!f@@7gj]<\taA:r9Is8HSN&P:Y&*JA,*b`U?e9JJ#V9Ucdm\lV\2Ak6ij4PZ1PiPIRUT]a0GZMI,,.<I9,\t)ohf90ff("W*U$6LZJVYKfHuLqb"ZaqsQ'r%9ZrEh[c1EgWkOoT<Un&OE.m-*+A%"Z5(*SD$pk4Dhac?Kk'o'3eU0E67p=?=F0Kd$JA&&6u@e"U4.Oc]Y7Cb>H^.8rN`e-Y*6S7XXhE!EiCOi-h6@'9ps'&qeImBfQFUhm/B2eB<jK"b&qG3`pBkY8Qk4:p3n4NgSu/,/Vkfd0tFHd2eq`>,$@aP.!U_MZ*J,c.l_BY`s2Ql3%n/HqT/@Fl):-\;*:&J.VbAT,P"Bh30O!/Fp?Ftf=u<t'a683&mu?/)V^Q/_?O.*m%>[t*)H'dW`Tj<`h?T!3+?UIX%i"g+i&1Vqh#%L^n.$X)?R+DGUDu-\H=6>0sVMe.DfTRkW-[CjUk3&QEXMC-!ml&Q]=lb8cbg)Hia_BF1pL?_8Wj_U,#Y`DN\>B]\VLj+5j>J'rQ)g<"8=u/TtB1ds#N^pl84Vg*I#MjN410"V&7DZ$<g`]5[kN$?]7cK1bRD`5]"`qU/"(:4AMp.&GhkaQ]#f!1P>T)8TuJ(XpLfA3??O&`gb]3:$%)q?-I;50FGeM<:IfcNG9V]+^gpn:5d;0A=&tA[spO7=Q?&4(-bU%FBZBJ8So3.h7PJj?0S#OW6jVrWiqG5qL1(_N!h3]HX0FLP<*,Oo:;7WXS5ODOSR<A"*nDdD]M01*QFe08#5#CM3p$+ifJs8t8LRTlmbrRPaVPoiIs-&4gg9n-7FM5HL=@3ZoYj),c%O&q.+&lh-p>Y#Rei9]V=q%@^%o).E&E=UbM\C=Q`\5,(cDW!o"DV6?`7%tY`:9WeR:heYR6[9JuHV@[MkWe+s($bB`EC4=-LCW/iJWRk*@6ZCUb>UNO:G2=^8VI=TnpNr>[1>iWg&5WMqPpJ.Al[Xj8)_$1e\,jk;E&UC,^.our(R`@Y*&Y`82D:a1UQD4iLr6]9JuQL),m.H%NBfJMdsL^QRQc-4JIo*WU#L@H>pUZZ0TfZRr<XF!IKCK@$tTi)eU]c.7&a/,@^:P5:Ut3kQP?9:V[pAC%KV5"bG:T":9PQp$u*6t@D^nuBBcT3iS"Len81j@V)<+#TblU'='6Fi]=Xeo,Q=/\:@j.\b'JI4r<u"h0UDB'+E`^R3smk`Gh,palC<927ZRHU=dXp5~>endstream
-endobj
-12 0 obj
-<<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 832
->>
-stream
-Gatm8>u0HF'RfGR\8TQ.@%<X.3`Fp4e?Ep]V&Q%"4-mIb`T\(GZ9NeVbD.9Tec_Eq-27,)Et@Gu!QBu)hf0-F(;e0>"3)L3"Qg:,_J?XeSS*_[4%2EE!m)/M4*UQ*.Z%h2cOOAWqORi,":mVLVc):b?r@5<fG9l'#]k[\&.mOS;B17tS4Q$^PLpNqd(("k54=9EdEQk@T-4%4^"imgH$>>^,AKTf(U1jS:PWmb;@rnP+=@t]b?W-mgg<'1qfiTWi"FARgDPq\:A0C"]<*F/[^')=<KOYYn3-^uE4&]eV1G?^JiD<`:IX)imjZ0n4]W2pX[MR?:;9PT;bj%<*+C/;Secmq#IrJ8q\DV<s+iOeCba50GcGDQq,Y<sVabIC$90^1H#9s?nOmG9?GT'mAqee_.oQ-M_kOH)X_eB<Nf.pYVHI.jU@ID/Ma+-(YLT=1IaC=Jc9:$C"D`EJe;&nrq3Ll0cI/]B$!c<[:EdN5`!N1Q$(dKkWV!JQInjEW52'RYo\1Ctn=V/=mfGG?kIRm'(dp9N7$Xpd0Ub,gf_.c]_hq2IqfH^MR@5PME<+Zro'W`?gl74%e2V@tH^m&M.>a2g>K<^-(^uljorheKF#gi3[@=;SmLQVbA+kp$/D9f%W,4l8&1b/NM)4*85!uTRO$!mh?+ns'8#":R*Yhg8rQq0qWoF*86oJ95O)]ariLlrYT.T-``1m>*P=8HhR'\[KT>h]2YX!Rfl^Y1\!hS$u=A]oE'TK83FUIZ?X:pC`4O#D][5PT(8QJuX:$Uk`:p"&->pq(c2N)73bqf1EL&S<SMeFl`QFSH.3k!SND8>rP:Ni]A~>endstream
 endobj
 xref
-0 13
+0 11
 0000000000 65535 f 
-0000000061 00000 n 
-0000000122 00000 n 
-0000000229 00000 n 
-0000000337 00000 n 
-0000000447 00000 n 
-0000000556 00000 n 
-0000000751 00000 n 
-0000000946 00000 n 
-0000001015 00000 n 
-0000001295 00000 n 
-0000001361 00000 n 
-0000004295 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000351 00000 n 
+0000011242 00000 n 
+0000011304 00000 n 
+0000011411 00000 n 
+0000011519 00000 n 
+0000011629 00000 n 
 trailer
 <<
-/ID 
-[<85f6294038b08cd48e820811d4ac3005><85f6294038b08cd48e820811d4ac3005>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 9 0 R
-/Root 8 0 R
-/Size 13
+/Size 11
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-5218
+11739
 %%EOF
